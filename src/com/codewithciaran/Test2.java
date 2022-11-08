@@ -4,7 +4,15 @@ public class Test2 {
 
     public static void main(String[] args) {
 
-        System.out.println("hello world");
-
+        System.out.println("Ciaran Dwyer");
+        System.out.println("Ciaran Dwyer");
+        System.out.println("Ciaran Dwyer");
+        System.out.println("Ciaran Dwyer");
+        System.out.println("Ciaran Dwyer");
+        System.out.println("Ciaran Dwyer");
+        System.out.println("Ciaran Dwyer");
+        System.out.println("Ciaran Dwyer");
+        System.out.println("Ciaran Dwyer");
+        System.out.println("Ciaran Dwyer");
     }
 }
