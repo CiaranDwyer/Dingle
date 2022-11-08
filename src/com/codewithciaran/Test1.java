@@ -10,6 +10,7 @@ public class Test1 {
             System.out.println("Automation is in progress");
         } else {
             System.out.println("Do you want to start automation?");
+            System.out.println("I have updated this text");
         }
     }
 }
