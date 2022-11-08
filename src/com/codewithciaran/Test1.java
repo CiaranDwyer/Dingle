@@ -11,6 +11,7 @@ public class Test1 {
         } else {
             System.out.println("Do you want to start automation?");
             System.out.println("I have updated this text");
+            System.out.println("Another Commit");
         }
     }
 }
